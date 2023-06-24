@@ -6,7 +6,8 @@ Now that I switched to the other side, I love everything about tech and eager to
 
 - 🚀 UpLeveled bootcamp graduate
 - 🔭 Final course project: 'plant heroes', a plantsitting platform for Viennese citizens who don't want a dead plant after they return from their vacation
-- 🌱 Tech Stack: JavaScript, TypeScript, React, Next.js, PostgresQL, REST API and many more 
+- 🌱 Tech Stack: JavaScript, TypeScript, React, Next.js, PostgresQL, REST API and many more
+- :envelope: https://www.linkedin.com/in/sophie-zulinski/ 
 
 
 
